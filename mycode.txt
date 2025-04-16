@@ -1,3 +1,5 @@
 #This is the main code that is used for this project
 
-print("This is the main code that is used for this project"
+print("This is the main code that is used for this project")
+
+select * from a.b.c where type = 'H';
