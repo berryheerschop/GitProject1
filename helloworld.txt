@@ -5,3 +5,5 @@ print("Working in the feature branch")
 print("Emergency fix")
 print("Some more work in the feature branch")
 print("Quick fix")
+print("Quick fix 2")
+
