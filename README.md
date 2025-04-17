@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 This line has been added in the GitHub editor
 
 This line is added to practice a pull request from the local working space.
+
+Added this new line
